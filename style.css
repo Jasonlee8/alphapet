@@ -223,7 +223,7 @@ section {
     min-width: 300px;
     max-width: 500px;
     max-height: 70%;
-     padding: 3px;
+    padding: 3px;
     border-radius: 32px;
     background: linear-gradient(
         135deg,
@@ -232,11 +232,12 @@ section {
         rgba(255,255,255,0.75)
     );
     box-shadow: 0 25px 60px rgba(255,107,94,0.12);
+    margin: 0 auto;
 }
 
 .hero-image img {
     display: block;
-     width: 100%;
+    width: 100%;
     aspect-ratio: 1 / 1;
     object-fit: cover;
     border-radius: 30px;
