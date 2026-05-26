@@ -444,7 +444,7 @@ section {
     }
 
     .about-text {
-        text-align: center;
+        text-align: left;
         max-width: 900px;
         margin: 0 auto;
     }
