@@ -327,6 +327,7 @@ section {
     color: var(--gray);
     font-size: 1.05rem;
     margin-bottom: 15px;
+    text-align: left;
 }
 
 .features-grid {
@@ -386,6 +387,10 @@ section {
 .grooming-block .service-header {
     text-align: left;
     margin: 0;
+}
+
+.grooming-block .service-header p {
+    text-align: left !important;
 }
 
 .grooming-image {
