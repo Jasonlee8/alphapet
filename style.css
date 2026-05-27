@@ -598,6 +598,9 @@ section {
     display: flex;
     flex-direction: column;
 }
+.contact-card:nth-last-child(1) .contact-icon {
+    transform:  rotate(-90deg);
+}
 .contact-details {
     margin-top: auto;
 }
